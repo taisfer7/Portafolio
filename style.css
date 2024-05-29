@@ -31,7 +31,7 @@ h1 {
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: #f5f6f7;
 }
 
 .seccion-titulo {
@@ -88,7 +88,7 @@ h1 {
 /* Sobre mi */
 
 .sobre-mi {
-  height: 500px;
+  height: 400px;
   padding: 10px;
 }
 
@@ -115,13 +115,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #cca69b;;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: #a384bd;
+  background-color: #9cd08e;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -158,8 +158,8 @@ h1 {
 }
 
 .proyectos-contenedor {
-  padding-top: 60px;
-  margin-bottom: 40px;
+  padding-top: 50px;
+  margin-bottom: 80px;
 }
 
 .overlay {
@@ -264,8 +264,8 @@ h1 {
 }
 
 .contacto .rectangulo {
-  margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  margin-top: -3rem;
+  background-color: #cca69b;;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -356,8 +356,9 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #727272;
   padding: 20px;
+  text-decoration: none;
 }
 
 /* Adaptable (Responsivo) */
